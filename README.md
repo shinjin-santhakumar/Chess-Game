@@ -1,7 +1,7 @@
 # Chess Game
  > Your author list below should include links to all members GitHub and should begin with a "\<" (remove existing author).
  
- > Authors: \<[Shinjin Santhakumar](https://github.com/ThePurplePhoenix),[Alan Chau](https://github.com/achau6),[James Sowell](https://github.com/JamesSowell)\>
+ > Authors: \<[Shinjin Santhakumar](https://github.com/shinjin-santhakumar),[Alan Chau](https://github.com/achau6),[James Sowell](https://github.com/JamesSowell)\>
  
  > You will be forming a group of **THREE** students and work on an interesting project that you will propose yourself (in this `README.md` document). You can pick any project that you'd like, but it needs ot implement three design patterns. Each of the members in a group is expected to work on at least one design pattern and its test cases. You can, of course, help each other, but it needs to be clear who will be responsible for which pattern and for which general project features.
  
