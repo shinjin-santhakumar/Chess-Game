@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\Users\shinj\Desktop\clion\mingw64
+Options: 
+
+Options:

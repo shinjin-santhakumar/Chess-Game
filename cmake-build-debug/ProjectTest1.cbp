@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjectTest1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_exec">
+				<Option output="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/my_exec.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/./src"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 my_exec"/>
+					<CompileFile command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_exec/fast">
+				<Option output="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/my_exec.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/./src"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/shinj/Desktop/clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 my_exec/fast"/>
+					<CompileFile command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/shinj/Desktop/clion/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/main.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/Bishop.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/Board.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/GameManager.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/King.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/Knight.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/Pawn.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/Queen.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/Rook.cpp">
+			<Option target="my_exec"/>
+		</Unit>
+		<Unit filename="C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

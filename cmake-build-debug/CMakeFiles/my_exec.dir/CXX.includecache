@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Board.h
+iostream
+-
+vector
+-
+string
+-
+../headers/Piece.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Piece.h
+
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/GameManager.h
+../headers/Board.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Board.h
+../headers/Pawn.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Pawn.h
+
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Pawn.h
+
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Piece.h
+../headers/Board.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Board.h
+string
+-
+iostream
+-
+Board.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/Board.h
+GameManager.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/GameManager.h
+
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/src/GameManager.cpp
+../headers/GameManager.h
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/headers/GameManager.h
+

@@ -1,0 +1,3 @@
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/CMakeFiles/my_exec.dir
+C:/Users/shinj/Desktop/UCR/Fall 2020/CS100/cs100project/ProjectTest1/cmake-build-debug/CMakeFiles/edit_cache.dir
